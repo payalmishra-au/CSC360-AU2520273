@@ -1,6 +1,9 @@
  Class Notes - CSC360
+
 Date: 01/09/2026
+
 Java Building & Maven Settings
+
 ● Why use release instead of source/target? Setting source and target in
 Maven only check your code grammar. It can still accidental use newer Java
 features from your computer. Using maven.compiler.release lock down the
